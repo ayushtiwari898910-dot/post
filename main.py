@@ -649,7 +649,7 @@ HTML_TEMPLATE = '''
 <body>
     <div class="container">
         <div class="header">
-            <h1>AYUSH POST BY TOKEN</h1>
+            <h1>✨ Facebook Comment Bot</h1>
             <span class="badge">v17.0 Stable</span>
             <p class="subtitle">Reliable • Safe • 24/7 Automation</p>
         </div>
@@ -1141,4 +1141,4 @@ if __name__ == '__main__':
     ║   Running on http://localhost:5000        ║
     ╚══════════════════════════════════════════╝
     """)
-    app.run(debug=False, host='0.0.0.0', port=5000, threaded=False
+    app.run(debug=False, host='0.0.0.0', port=5000, threaded=False)
